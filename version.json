@@ -1,0 +1,9 @@
+{
+    "owner": "nowrep",
+    "repo": "obs-vkcapture",
+    "rev": "28d324e8e998390338637a57c479c1b9c5e565e8",
+    "sha256": "iIV9ke2yPEt2Lf4bwiEHFip4tLhMS4raWGyCWpao74w=",
+    "fetchSubmodules": false,
+    "leaveDotGit": false,
+    "deepClone": false
+}
